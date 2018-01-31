@@ -1,0 +1,28 @@
+{
+  "name": "lolineet.moe",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rikidere/lolineet.moe.git"
+  },
+  "keywords": [
+    "mean",
+    "website",
+    "development"
+  ],
+  "author": "rikidere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rikidere/lolineet.moe/issues"
+  },
+  "homepage": "https://github.com/Rikidere/lolineet.moe#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
